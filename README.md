@@ -2,7 +2,7 @@
 
 A comprehensive study guide for the CompTIA Network+ (N10-009) certification exam, synthesized from course materials and official exam objectives. Built as a single dark-mode HTML file with full anchor navigation.
 
-🔗 **[View the Study Guide](https://conwilso92.github.io/network-plus-study-guide)**
+🔗 **[View the Study Guide](https://conwilso92.github.io/networkplus-study-guide)**
 
 ---
 
@@ -56,5 +56,3 @@ Part of a broader CompTIA certification study toolkit:
 ## About
 
 Built while studying for the CompTIA Network+ certification at Star V Learning Centers, Jacksonville, FL. Materials synthesized from course slide decks and official N10-009 exam objectives.
-
-**Certifications:** CompTIA A+ (Core 1 & Core 2 passed) · Network+ (in progress)
